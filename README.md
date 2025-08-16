@@ -1,4 +1,2 @@
-﻿# **ML-ESPECIALIZACION**
-
-- Repositorio para alojar los ejercicios de la especialización de Machine Learning de Tokio School.
-- Los ejercicios están organizados por ramas según la unidad a la que pertenecen.
+﻿# **UNIDAD 2**
+## **APRENDIZAJE SUPERVISADO**
